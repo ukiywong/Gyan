@@ -1,0 +1,570 @@
+@media (min-width: 992px) and (max-width: 1199.99px) {
+
+   /* Nav Bar Responsive Css Start */
+   #main_nav {
+      padding-bottom: 20px;
+   }
+
+   #main_nav .navbar-brand {
+      padding-top: 10px;
+   }
+
+   #main_menu ul li a {
+      font-size: 15px;
+      padding-top: 40px;
+   }
+
+   #main_menu a.nav_btn {
+      font-size: 15px;
+   }
+
+   /* Nav Bar Responsive Css End */
+
+   /* Banner Section Responsive Css Start */
+   .banner_content {
+      padding: 70px 100px 200px;
+   }
+
+   .banner_content p {
+      width: 100%;
+   }
+
+   /* Banner Section Responsive Css End */
+
+   /* Blog Section Responsive Css Start */
+   .blog_top_info p {
+      font-size: 11px
+   }
+
+   /* Blog Section Responsive Css End */
+
+   /* Footer Top Section Responsive Css Start */
+   .quick_link ul li a {
+      font-size: 14px;
+   }
+
+   /* Footer Top Section Responsive Css End */
+}
+
+@media (min-width: 768px) and (max-width: 991.99px) {
+
+   /* Nav Bar Responsive Css Start */
+   #main_nav {
+      padding: 5px;
+   }
+
+   #main_nav .navbar-brand {
+      padding: 0;
+      margin-bottom: 20px;
+   }
+
+   #main_nav .navbar-toggler {
+      color: var(--main-hlt-color);
+   }
+
+   #main_nav .navbar-toggler.collapsed {
+      color: var(--main-color);
+   }
+
+   #main_nav .navbar-toggler:focus {
+      outline: none;
+   }
+
+   #main_menu {
+      margin-top: 20px;
+      text-align: center;
+   }
+
+   #main_menu ul li a {
+      padding: 10px 0;
+   }
+
+   /* Nav Bar Responsive Css End */
+   /* Banner Section Responsive Css Start */
+   .banner_slide_btn_left,
+   .banner_slide_btn_right {
+      font-size: 23px;
+      top: 58%;
+      width: 40px;
+      height: 40px;
+      line-height: 40px;
+      text-align: center;
+   }
+
+   .banner_slide_btn_left {
+      left: 20px;
+   }
+
+   .banner_slide_btn_right {
+      right: 20px;
+   }
+
+   .banner_content {
+      padding: 44px 0 120px;
+   }
+
+   .banner_content h1 {
+      font-size: 40px;
+   }
+
+   .banner_content h1 small {
+      font-size: 26px;
+   }
+
+   .banner_content p {
+      font-size: 12px;
+      line-height: 24px;
+      width: 100%;
+   }
+
+   /* Banner Section Responsive Css End */
+
+   /* About Section Responsive Css Start */
+   #about {
+      padding: 70px 0;
+   }
+
+   .about_content {
+      margin-top: 25px;
+   }
+
+   /* About Section Responsive Css End */
+
+   /* Course Section Responsive Css Start */
+   #courses .section_info {
+      padding-top: 70px;
+   }
+
+   .course_item .trainer_info {
+      text-align: center;
+   }
+
+   .course_item .trainer_info .pro_pic {
+      margin-bottom: 10px;
+   }
+
+   .course_item .trainer_info .pro_pic img {
+      display: inline-block;
+      width: auto;
+   }
+
+   .course_item .trainer_info .rating {
+      text-align: center !important;
+      margin-top: 10px;
+   }
+
+   .course_item .about_course,
+   .course_item .about_course p,
+   .course_item .course_details p {
+      text-align: center;
+   }
+
+   .course_item .course_details p.title {
+      font-size: 10px;
+   }
+
+   /* Course Section Responsive Css End */
+
+   /* Events Section Responsive Css Start */
+   .events_schedule {
+      margin-top: 20px;
+   }
+
+   /* Events Section Responsive Css End */
+
+   /* Testimonial Section Responsive Css Start */
+   .test_accordion {
+      margin-top: 20px;
+   }
+
+   /* Testimonial Section Responsive Css End */
+
+   /* Blog Section Responsive Css Start */
+   .blog_top_item,
+   .blog_item {
+      margin: 15px 0;
+   }
+
+   /* Blog Section Responsive Css End */
+
+   /* Footer Top Section Responsive Css Start */
+   .basic_info {
+      margin-bottom: 15px;
+   }
+
+   .quick_link ul li a {
+      font-size: 14px;
+   }
+
+   /* Footer Top Section Responsive Css End */
+
+}
+
+@media (min-width: 576px) and (max-width: 767.99px) {
+
+   /* Nav Bar Responsive Css Start */
+   #main_nav {
+      padding: 5px;
+   }
+
+   #main_nav .navbar-brand {
+      padding: 0;
+      margin-bottom: 20px;
+   }
+
+   #main_nav .navbar-toggler {
+      color: var(--main-hlt-color);
+   }
+
+   #main_nav .navbar-toggler.collapsed {
+      color: var(--main-color);
+   }
+
+   #main_nav .navbar-toggler:focus {
+      outline: none;
+   }
+
+   #main_menu {
+      text-align: center;
+   }
+
+   #main_menu ul li a {
+      padding: 10px 0;
+   }
+
+   /* Nav Bar Responsive Css End */
+
+   /* Banner Section Responsive Css Start */
+   .banner_slide_btn_left,
+   .banner_slide_btn_right {
+      font-size: 23px;
+      top: 58%;
+      width: 40px;
+      height: 40px;
+      line-height: 40px;
+      text-align: center;
+   }
+
+   .banner_slide_btn_left {
+      left: 20px;
+   }
+
+   .banner_slide_btn_right {
+      right: 20px;
+   }
+
+   .banner_content {
+      padding: 44px 0 120px;
+   }
+
+   .banner_content h1 {
+      font-size: 40px;
+   }
+
+   .banner_content h1 small {
+      font-size: 26px;
+   }
+
+   .banner_content p {
+      font-size: 12px;
+      line-height: 24px;
+      width: 100%;
+   }
+
+   /* Banner Section Responsive Css End */
+
+   /* About Section Responsive Css Start */
+   #about {
+      padding: 70px 0;
+   }
+
+   .about_content {
+      margin-top: 25px;
+      text-align: center;
+   }
+
+   /* About Section Responsive Css End */
+
+   /* Counter Section Responsive Css Start */
+   .counter_item h3 {
+      font-size: 26px;
+   }
+
+   .counter_item h5 {
+      font-size: 15px;
+   }
+
+   /* Counter Section Responsive Css End */
+
+   /* Course Section Responsive Css Start */
+   #courses .section_info {
+      padding-top: 70px;
+   }
+
+   .course_item .trainer_info {
+      text-align: center;
+   }
+
+   .course_item .trainer_info .pro_pic {
+      margin-bottom: 10px;
+   }
+
+   .course_item .trainer_info .pro_pic img {
+      display: inline-block;
+      width: auto;
+   }
+
+   .course_item .trainer_info .rating {
+      text-align: center !important;
+      margin-top: 10px;
+   }
+
+   .course_item .about_course,
+   .course_item .about_course p,
+   .course_item .course_details p {
+      text-align: center;
+   }
+
+   .course_item .course_details p.title {
+      font-size: 10px;
+   }
+
+   /* Course Section Responsive Css End */
+
+   /* Testimonial Section Responsive Css Start */
+   .test_accordion {
+      margin-top: 20px;
+   }
+
+   /* Testimonial Section Responsive Css End */
+
+   /* Blog Section Responsive Css Start */
+   .blog_top_item,
+   .blog_item {
+      margin: 15px 0;
+   }
+
+   /* Blog Section Responsive Css End */
+
+   /* Footer Top Section Responsive Css Start */
+   .basic_info {
+      margin-bottom: 15px;
+   }
+
+   .quick_link ul li a {
+      font-size: 14px;
+   }
+
+   /* Footer Top Section Responsive Css End */
+}
+
+@media (max-width: 576px) {
+
+   /* Nav Bar Responsive Css Start */
+   #main_nav {
+      padding: 5px;
+   }
+
+   #main_nav .navbar-brand {
+      padding: 0;
+      margin-bottom: 20px;
+   }
+
+   #main_nav .navbar-toggler {
+      color: var(--main-hlt-color);
+   }
+
+   #main_nav .navbar-toggler.collapsed {
+      color: var(--main-color);
+   }
+
+   #main_nav .navbar-toggler:focus {
+      outline: none;
+   }
+
+   #main_menu {
+      text-align: center;
+   }
+
+   #main_menu ul li a {
+      padding: 10px 0;
+   }
+
+   /* Nav Bar Responsive Css End */
+   /* Banner Section Responsive Css Start */
+   .banner_slide_btn_left,
+   .banner_slide_btn_right {
+      font-size: 23px;
+      top: 58%;
+      width: 40px;
+      height: 40px;
+      line-height: 40px;
+      text-align: center;
+   }
+
+   .banner_slide_btn_left {
+      left: 20px;
+   }
+
+   .banner_slide_btn_right {
+      right: 20px;
+   }
+
+   .banner_content {
+      padding: 44px 0 120px;
+   }
+
+   .banner_content h1 {
+      font-size: 25px;
+   }
+
+   .banner_content h1 small {
+      font-size: 20px;
+   }
+
+   .banner_content p {
+      font-size: 12px;
+      line-height: 24px;
+      width: 100%;
+      margin-top: 15px;
+   }
+
+   .banner_content .banner_btn a {
+      font-size: 16px;
+      display: inline-block;
+      padding: 10px 12px;
+      margin: 0 3px;
+   }
+
+   /* Banner Section Responsive Css End */
+   /* About Section Responsive Css Start */
+   #about {
+      padding: 70px 0;
+   }
+
+   .about_content {
+      margin-top: 25px;
+      text-align: center;
+   }
+
+   .about_slider_box::before,
+   .about_slider_box::after,
+   .about_video_box::before,
+   .about_video_box::after {
+      content: '';
+      position: absolute;
+      width: 200px;
+      height: 3px;
+   }
+
+   /* About Section Responsive Css End */
+   /* Counter Section Responsive Css Start */
+   .counter_item h3 {
+      font-size: 26px;
+   }
+
+   .counter_item h5 {
+      font-size: 15px;
+   }
+
+   /* Counter Section Responsive Css End */
+
+   /* Course Section Responsive Css Start */
+   #courses .section_info {
+      padding-top: 70px;
+   }
+
+   .course_item .trainer_info {
+      text-align: center;
+   }
+
+   .course_item .trainer_info .pro_pic {
+      margin-bottom: 10px;
+   }
+
+   .course_item .trainer_info .pro_pic img {
+      display: inline-block;
+      width: auto;
+   }
+
+   .course_item .trainer_info .rating {
+      text-align: center !important;
+      margin-top: 10px;
+   }
+
+   .course_item .about_course,
+   .course_item .about_course p,
+   .course_item .course_details p {
+      text-align: center;
+      margin: 0;
+   }
+
+   .course_item .course_details p.title {
+      font-size: 10px;
+   }
+
+   .course_item .course_item_btn {
+      margin-top: 0px;
+   }
+
+   /* Course Section Responsive Css End */
+
+   /* Events Section Responsive Css Start */
+   .event_calendar h3 {
+      font-size: 14px;
+   }
+
+   /* Events Section Responsive Css End */
+
+   /* Testimonial Section Responsive Css Start */
+   .test_accordion {
+      margin-top: 30px;
+   }
+
+   .test_accordion .card-link {
+      font-size: 16px;
+   }
+
+   /* Testimonial Section Responsive Css End */
+
+   /* Blog Section Responsive Css Start */
+   .blog_top_item .blog_top_overly{
+      text-align: center;
+      background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8) 30%, rgba(0, 0, 0, 0) 100%);
+   }
+   .social_icon {
+      width: 100%;
+      left: 50%;
+      top: -20px;
+      transform: translateX(-50%);
+   }
+   .blog_top_item:hover .social_icon {
+      top: 5px;
+   }
+   .social_icon a{
+      display: inline-block;
+   }
+   .blog_top_item,
+   .blog_item {
+      margin: 15px 0;
+   }
+   .blog_top_footer .blog_top_titlle a h3 {
+      font-size: 16px;
+   }
+   /* Blog Section Responsive Css End */
+
+      /* Footer Top Section Responsive Css Start */
+      .basic_info {
+         margin-bottom: 15px;
+      }
+      .quick_link{
+         text-align: center;
+      }
+      .quick_link ul li a {
+         font-size: 14px;
+      }
+      .contact_information h3{
+         text-align: center;
+      }
+      /* Footer Top Section Responsive Css End */
+}
